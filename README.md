@@ -15,6 +15,10 @@ Libs usadas no projeto:
 - :ant: correção de bug
 - :checkered_flag: release
 
+## Screenshot 
+
+![Resumo da primeira interface do projeto](img\Project.gif)
+
 ## Author
 
 - Website - [Matheus Gama](https://mth-gama.github.io/)
