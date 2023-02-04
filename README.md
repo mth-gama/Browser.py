@@ -17,7 +17,7 @@ Libs usadas no projeto:
 
 ## Screenshot 
 
-![Resumo da primeira interface do projeto](.\img\Project.gif)
+![Project](https://user-images.githubusercontent.com/68973867/216733114-7faede43-8d16-4210-a1c6-054716d664b6.gif)
 
 ## Author
 
