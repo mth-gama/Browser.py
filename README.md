@@ -17,7 +17,7 @@ Libs usadas no projeto:
 
 ## Screenshot 
 
-![Resumo da primeira interface do projeto](img\Project.gif)
+![Resumo da primeira interface do projeto](.\img\Project.gif)
 
 ## Author
 
